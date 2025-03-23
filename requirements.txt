@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+pandas
+openpyxl
+qrcode[pil]
+pillow
+pymongo
+python-multipart
